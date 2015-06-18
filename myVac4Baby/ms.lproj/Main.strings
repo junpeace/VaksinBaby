@@ -1,0 +1,297 @@
+
+/* Class = "IBUILabel"; text = "Vaccination Date"; ObjectID = "1va-G0-xBz"; */
+"1va-G0-xBz.text" = "Vaccination Date";
+
+/* Class = "IBUINavigationItem"; title = "Take The Tour"; ObjectID = "270-ww-rat"; */
+"270-ww-rat.title" = "Take The Tour";
+
+/* Class = "IBUITextField"; placeholder = "Employer"; ObjectID = "3wi-JW-gNl"; */
+"3wi-JW-gNl.placeholder" = "Employer";
+
+/* Class = "IBUITextField"; placeholder = "D. O. B."; ObjectID = "49H-1L-Mob"; */
+"49H-1L-Mob.placeholder" = "D. O. B.";
+
+/* Class = "IBUITextField"; placeholder = "Confirm Password"; ObjectID = "4pc-gF-X6F"; */
+"4pc-gF-X6F.placeholder" = "Confirm Password";
+
+/* Class = "IBUILabel"; text = "Employer"; ObjectID = "5Q1-eg-HtE"; */
+"5Q1-eg-HtE.text" = "Employer";
+
+/* Class = "IBUIButton"; normalTitle = "Next"; ObjectID = "7G6-cc-Cpi"; */
+"7G6-cc-Cpi.normalTitle" = "Next";
+
+/* Class = "IBUITextField"; placeholder = "Username"; ObjectID = "7QA-99-mdm"; */
+"7QA-99-mdm.placeholder" = "Username";
+
+/* Class = "IBUILabel"; text = "Name"; ObjectID = "8WJ-je-lNk"; */
+"8WJ-je-lNk.text" = "Name";
+
+/* Class = "IBUILabel"; text = "Add a photo of your baby"; ObjectID = "Aen-Zd-gt7"; */
+"Aen-Zd-gt7.text" = "Add a photo of your baby";
+
+/* Class = "IBUITextField"; placeholder = "Username"; ObjectID = "BSd-eI-0bT"; */
+"BSd-eI-0bT.placeholder" = "Username";
+
+/* Class = "IBUILabel"; text = "I agree to the Terms & Conditions"; ObjectID = "C4b-Zd-Gz0"; */
+"C4b-Zd-Gz0.text" = "I agree to the Terms & Conditions";
+
+/* Class = "IBUILabel"; text = "Add a photo of your baby"; ObjectID = "CIN-aT-i94"; */
+"CIN-aT-i94.text" = "Add a photo of your baby";
+
+/* Class = "IBUILabel"; text = "Child's Age"; ObjectID = "CoA-gv-kX2"; */
+"CoA-gv-kX2.text" = "Child's Age";
+
+/* Class = "IBUILabel"; text = "D.O.B"; ObjectID = "Fx7-9t-OKy"; */
+"Fx7-9t-OKy.text" = "D.O.B";
+
+/* Class = "IBUITextField"; placeholder = "Type your child's age here"; ObjectID = "Glk-P6-l5S"; */
+"Glk-P6-l5S.placeholder" = "Type your child's age here";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "HAY-ju-EHT"; */
+"HAY-ju-EHT.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Confirm Password"; ObjectID = "HDA-Q1-gNN"; */
+"HDA-Q1-gNN.text" = "Confirm Password";
+
+/* Class = "IBUIButton"; normalTitle = "New here? Register now!"; ObjectID = "HfE-Ge-zMA"; */
+"HfE-Ge-zMA.normalTitle" = "New here? Register now!";
+
+/* Class = "IBUILabel"; text = "Email"; ObjectID = "HoZ-Nu-Zoq"; */
+"HoZ-Nu-Zoq.text" = "Email";
+
+/* Class = "IBUILabel"; text = "Doctor/Nurse's Name"; ObjectID = "Iiw-Bg-eN0"; */
+"Iiw-Bg-eN0.text" = "Doctor/Nurse's Name";
+
+/* Class = "IBUITextField"; placeholder = "Postcode"; ObjectID = "Jce-y2-JHc"; */
+"Jce-y2-JHc.placeholder" = "Postcode";
+
+/* Class = "IBUILabel"; text = "Confirm Password"; ObjectID = "KKR-yR-zCO"; */
+"KKR-yR-zCO.text" = "Confirm Password";
+
+/* Class = "IBUILabel"; text = "1"; ObjectID = "KqB-18-1Xq"; */
+"KqB-18-1Xq.text" = "1";
+
+/* Class = "IBUILabel"; text = "Select Prefer Language"; ObjectID = "KxA-yD-Hhy"; */
+"KxA-yD-Hhy.text" = "Select Prefer Language";
+
+/* Class = "IBUITextField"; placeholder = "Options"; ObjectID = "Lyf-Jx-v9s"; */
+"Lyf-Jx-v9s.placeholder" = "Options";
+
+/* Class = "IBUIButton"; normalTitle = "Edit"; ObjectID = "NAg-4N-UWK"; */
+"NAg-4N-UWK.normalTitle" = "Edit";
+
+/* Class = "IBUINavigationItem"; title = "Menu"; ObjectID = "O2q-j4-9Z0"; */
+"O2q-j4-9Z0.title" = "Menu";
+
+/* Class = "IBUITextView"; text = "Type your description"; ObjectID = "OKA-K8-9Ay"; */
+"OKA-K8-9Ay.text" = "Type your description";
+
+/* Class = "IBUILabel"; text = "N/A"; ObjectID = "PK5-fs-wTm"; */
+"PK5-fs-wTm.text" = "N/A";
+
+/* Class = "IBUITextField"; placeholder = "Name"; ObjectID = "Q5q-4G-SXW"; */
+"Q5q-4G-SXW.placeholder" = "Name";
+
+/* Class = "IBUILabel"; text = "Hospital or clinic where vaccination was given"; ObjectID = "Rjk-yY-Pt7"; */
+"Rjk-yY-Pt7.text" = "Hospital or clinic where vaccination was given";
+
+/* Class = "IBUITextField"; placeholder = "Options"; ObjectID = "SHg-Qk-MX8"; */
+"SHg-Qk-MX8.placeholder" = "Options";
+
+/* Class = "IBUITextField"; placeholder = "Type your mobile no. here"; ObjectID = "SJd-pg-BJV"; */
+"SJd-pg-BJV.placeholder" = "Type your mobile no. here";
+
+/* Class = "IBUILabel"; text = "Child's Name"; ObjectID = "SSs-IV-2AR"; */
+"SSs-IV-2AR.text" = "Child's Name";
+
+/* Class = "IBUITextField"; placeholder = "Select a Vaccination Type"; ObjectID = "SVZ-lr-8Us"; */
+"SVZ-lr-8Us.placeholder" = "Select a Vaccination Type";
+
+/* Class = "IBUIButton"; normalTitle = "Save"; ObjectID = "SfS-oq-63m"; */
+"SfS-oq-63m.normalTitle" = "Save";
+
+/* Class = "IBUITextField"; placeholder = "Username"; ObjectID = "Sfe-fr-GcX"; */
+"Sfe-fr-GcX.placeholder" = "Username";
+
+/* Class = "IBUITextField"; placeholder = "Type hospital/clinic here"; ObjectID = "TYY-WF-WM0"; */
+"TYY-WF-WM0.placeholder" = "Type hospital/clinic here";
+
+/* Class = "IBUITextField"; placeholder = "6 characters at least"; ObjectID = "VC5-dx-yPc"; */
+"VC5-dx-yPc.placeholder" = "6 characters at least";
+
+/* Class = "IBUILabel"; text = "Username"; ObjectID = "Vyz-1v-JOW"; */
+"Vyz-1v-JOW.text" = "Username";
+
+/* Class = "IBUILabel"; text = "Email"; ObjectID = "XdL-ig-28R"; */
+"XdL-ig-28R.text" = "Email";
+
+/* Class = "IBUINavigationItem"; title = "Report Adverse Effect"; ObjectID = "XwE-ui-o5Y"; */
+"XwE-ui-o5Y.title" = "Report Adverse Effect";
+
+/* Class = "IBUITextField"; placeholder = "6 characters at least"; ObjectID = "Yqq-d0-jxY"; */
+"Yqq-d0-jxY.placeholder" = "6 characters at least";
+
+/* Class = "IBUILabel"; text = "Username"; ObjectID = "Yrm-sK-qbu"; */
+"Yrm-sK-qbu.text" = "Username";
+
+/* Class = "IBUITextField"; placeholder = "D.O.B"; ObjectID = "ZP3-fu-DL7"; */
+"ZP3-fu-DL7.placeholder" = "D.O.B";
+
+/* Class = "IBUILabel"; text = "Mobile"; ObjectID = "Zkk-9W-3eF"; */
+"Zkk-9W-3eF.text" = "Mobile";
+
+/* Class = "IBUITextField"; placeholder = "Type your name here"; ObjectID = "a0H-nY-eGg"; */
+"a0H-nY-eGg.placeholder" = "Type your name here";
+
+/* Class = "IBUITextField"; placeholder = "Mobile"; ObjectID = "ai0-Ag-ilY"; */
+"ai0-Ag-ilY.placeholder" = "Mobile";
+
+/* Class = "IBUITextField"; placeholder = "Type your child's name here"; ObjectID = "arO-Wl-Ubu"; */
+"arO-Wl-Ubu.placeholder" = "Type your child's name here";
+
+/* Class = "IBUIButton"; normalTitle = "Login"; ObjectID = "bCr-c8-apl"; */
+"bCr-c8-apl.normalTitle" = "Login";
+
+/* Class = "IBUITextField"; placeholder = "D. O. B."; ObjectID = "bT0-lx-owe"; */
+"bT0-lx-owe.placeholder" = "D. O. B.";
+
+/* Class = "IBUILabel"; text = "Name"; ObjectID = "ccr-OP-XMo"; */
+"ccr-OP-XMo.text" = "Name";
+
+/* Class = "IBUILabel"; text = "Gender"; ObjectID = "cd9-z7-Hok"; */
+"cd9-z7-Hok.text" = "Gender";
+
+/* Class = "IBUIButton"; normalTitle = "Next"; ObjectID = "cjZ-yV-Zgs"; */
+"cjZ-yV-Zgs.normalTitle" = "Next";
+
+/* Class = "IBUITextField"; placeholder = "Add a name of your baby"; ObjectID = "d6Z-fk-Hj0"; */
+"d6Z-fk-Hj0.placeholder" = "Add a name of your baby";
+
+/* Class = "IBUILabel"; text = "D.O.B"; ObjectID = "d7g-2i-OCI"; */
+"d7g-2i-OCI.text" = "D.O.B";
+
+/* Class = "IBUITextField"; placeholder = "Options"; ObjectID = "dAH-i3-WnT"; */
+"dAH-i3-WnT.placeholder" = "Options";
+
+/* Class = "IBUILabel"; text = "Username"; ObjectID = "dT2-vs-DXV"; */
+"dT2-vs-DXV.text" = "Username";
+
+/* Class = "IBUILabel"; text = "Password"; ObjectID = "dv1-jI-Zjl"; */
+"dv1-jI-Zjl.text" = "Password";
+
+/* Class = "IBUITextField"; placeholder = "Options"; ObjectID = "ePa-Z0-pv7"; */
+"ePa-Z0-pv7.placeholder" = "Options";
+
+/* Class = "IBUILabel"; text = "Postcode"; ObjectID = "f7B-2D-yx7"; */
+"f7B-2D-yx7.text" = "Postcode";
+
+/* Class = "IBUITextField"; placeholder = "dd/mm/yy"; ObjectID = "fJE-OT-E2X"; */
+"fJE-OT-E2X.placeholder" = "dd/mm/yy";
+
+/* Class = "IBUILabel"; text = "Healthcare Preference"; ObjectID = "fXi-Tf-kCo"; */
+"fXi-Tf-kCo.text" = "Healthcare Preference";
+
+/* Class = "IBUIButton"; normalTitle = "Send Password"; ObjectID = "fpR-pH-iAw"; */
+"fpR-pH-iAw.normalTitle" = "Send Password";
+
+/* Class = "IBUILabel"; text = "Password"; ObjectID = "gF8-oQ-len"; */
+"gF8-oQ-len.text" = "Password";
+
+/* Class = "IBUITextField"; placeholder = "Name"; ObjectID = "gyv-LU-O3N"; */
+"gyv-LU-O3N.placeholder" = "Name";
+
+/* Class = "IBUILabel"; text = "I agree to the Terms & Conditions"; ObjectID = "hF5-an-lr6"; */
+"hF5-an-lr6.text" = "I agree to the Terms & Conditions";
+
+/* Class = "IBUILabel"; text = "Type of Vaccination Given"; ObjectID = "hZ1-h0-EXC"; */
+"hZ1-h0-EXC.text" = "Type of Vaccination Given";
+
+/* Class = "IBUITextField"; placeholder = "Type your email here"; ObjectID = "hoS-Rh-4lj"; */
+"hoS-Rh-4lj.placeholder" = "Type your email here";
+
+/* Class = "IBUITextField"; placeholder = "Type doctor/nurse's name here"; ObjectID = "hpf-VA-6f0"; */
+"hpf-VA-6f0.placeholder" = "Type doctor/nurse's name here";
+
+/* Class = "IBUITextField"; placeholder = "Options"; ObjectID = "i6a-Ka-ctW"; */
+"i6a-Ka-ctW.placeholder" = "Options";
+
+/* Class = "IBUILabel"; text = "Mobile"; ObjectID = "iQX-Hj-wYf"; */
+"iQX-Hj-wYf.text" = "Mobile";
+
+/* Class = "IBUITextField"; placeholder = "Name"; ObjectID = "kI6-Rz-RAc"; */
+"kI6-Rz-RAc.placeholder" = "Name";
+
+/* Class = "IBUITextField"; placeholder = "Email"; ObjectID = "kwb-6T-Efo"; */
+"kwb-6T-Efo.placeholder" = "Email";
+
+/* Class = "IBUILabel"; text = "Name"; ObjectID = "m6u-PH-Ch9"; */
+"m6u-PH-Ch9.text" = "Name";
+
+/* Class = "IBUITextField"; placeholder = "Email Address"; ObjectID = "mkr-AJ-Zhq"; */
+"mkr-AJ-Zhq.placeholder" = "Email Address";
+
+/* Class = "IBUILabel"; text = "Email"; ObjectID = "mnr-Jw-xME"; */
+"mnr-Jw-xME.text" = "Email";
+
+/* Class = "IBUILabel"; text = "Mobile No"; ObjectID = "nYF-K0-MTe"; */
+"nYF-K0-MTe.text" = "Mobile No";
+
+/* Class = "IBUILabel"; text = "Description of the adverse effect"; ObjectID = "ng8-xB-71c"; */
+"ng8-xB-71c.text" = "Description of the adverse effect";
+
+/* Class = "IBUILabel"; text = "Healthcare Preference"; ObjectID = "pqf-gZ-Q5S"; */
+"pqf-gZ-Q5S.text" = "Healthcare Preference";
+
+/* Class = "IBUITextField"; placeholder = "Password"; ObjectID = "qBS-cy-mIK"; */
+"qBS-cy-mIK.placeholder" = "Password";
+
+/* Class = "IBUITextField"; placeholder = "Name"; ObjectID = "qM2-cY-T1Y"; */
+"qM2-cY-T1Y.placeholder" = "Name";
+
+/* Class = "IBUILabel"; text = "Postcode"; ObjectID = "r9e-6W-HRf"; */
+"r9e-6W-HRf.text" = "Postcode";
+
+/* Class = "IBUITextField"; placeholder = "dd/mm/yy"; ObjectID = "rLx-kp-ltN"; */
+"rLx-kp-ltN.placeholder" = "dd/mm/yy";
+
+/* Class = "IBUILabel"; text = "Employer"; ObjectID = "rXW-PH-UTS"; */
+"rXW-PH-UTS.text" = "Employer";
+
+/* Class = "IBUITextField"; placeholder = "Add a name of your baby"; ObjectID = "sO9-IF-Ta7"; */
+"sO9-IF-Ta7.placeholder" = "Add a name of your baby";
+
+/* Class = "IBUILabel"; text = "Gender"; ObjectID = "tBh-Sp-WSp"; */
+"tBh-Sp-WSp.text" = "Gender";
+
+/* Class = "IBUITextField"; placeholder = "Email"; ObjectID = "tNc-0Y-TqF"; */
+"tNc-0Y-TqF.placeholder" = "Email";
+
+/* Class = "IBUITextField"; placeholder = "Mobile"; ObjectID = "vzd-bo-hwH"; */
+"vzd-bo-hwH.placeholder" = "Mobile";
+
+/* Class = "IBUITextField"; placeholder = "Postcode"; ObjectID = "wc2-T2-dyD"; */
+"wc2-T2-dyD.placeholder" = "Postcode";
+
+/* Class = "IBUITextField"; placeholder = "Email Address"; ObjectID = "ws2-Eo-KdE"; */
+"ws2-Eo-KdE.placeholder" = "Email Address";
+
+/* Class = "IBUILabel"; text = "Label"; ObjectID = "xcT-nu-uQq"; */
+"xcT-nu-uQq.text" = "Label";
+
+/* Class = "IBUILabel"; text = "Password"; ObjectID = "xir-xN-smO"; */
+"xir-xN-smO.text" = "Password";
+
+/* Class = "IBUIButton"; normalTitle = "Update"; ObjectID = "xxD-uO-DDc"; */
+"xxD-uO-DDc.normalTitle" = "Update";
+
+/* Class = "IBUINavigationItem"; title = "Vaccination Tracker"; ObjectID = "xz2-Ra-kUn"; */
+"xz2-Ra-kUn.title" = "Vaccination Tracker";
+
+/* Class = "IBUINavigationItem"; title = "Language Preference"; ObjectID = "yTA-6q-FDg"; */
+"yTA-6q-FDg.title" = "Language Preference";
+
+/* Class = "IBUITextField"; placeholder = "Mobile No."; ObjectID = "yqY-PO-vra"; */
+"yqY-PO-vra.placeholder" = "Mobile No.";
+
+/* Class = "IBUITextField"; placeholder = "Password"; ObjectID = "zPg-Oe-qXO"; */
+"zPg-Oe-qXO.placeholder" = "Password";
